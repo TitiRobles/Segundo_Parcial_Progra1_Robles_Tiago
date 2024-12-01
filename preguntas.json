@@ -1,0 +1,58 @@
+{
+    "preguntas": [
+        {
+            "id": 1,
+            "pregunta": "¿Quien es mejor?",
+            "AZ": "Messi",
+            "RO": "Maradona"
+        },
+        {
+            "id": 2,
+            "pregunta": "¿Que es mas rico?",
+            "AZ": "Pizza",
+            "RO": "Hamburguesa"
+        },       
+        {
+            "id": 3,
+            "pregunta": "¿Que lugar es mejor para vacacionar?",
+            "AZ": "Mar del Plata",
+            "RO": "Moscu"
+        },
+        {
+            "id": 4,
+            "pregunta": "¿Que estacion es mejor?",
+            "AZ": "Verano",
+            "RO": "Invierno"
+        },
+        {
+            "id": 5,
+            "pregunta": "¿Que es mejor para merendar?",
+            "AZ": "Mate",
+            "RO": "Cafe"
+        },
+        {
+            "id": 6,
+            "pregunta": "¿Quien es mejor?",
+            "AZ": "Messi",
+            "RO": "Maradona"
+        },
+        {
+            "id": 7,
+            "pregunta": "El mejor actor de argentina es...",
+            "AZ": "Darin",
+            "RO": "Francella"
+        },
+        {
+            "id": 8,
+            "pregunta": "¿Que preferis?",
+            "AZ": "Ser infiel",
+            "RO": "Que te sean infiel"
+        },
+        {
+            "id": 1,
+            "pregunta": "Si tenes uno de estos deseos ¿Que eligirias?",
+            "AZ": "Tener mas tiempo",
+            "RO": "Tener mas dinero"
+        }
+    ]
+}
