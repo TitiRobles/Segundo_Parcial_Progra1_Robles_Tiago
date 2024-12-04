@@ -20,3 +20,8 @@ class Pregunta:
             preguntas.append(pregunta)
         return preguntas
     
+
+preguntas = Pregunta.cargar_las_preguntas()
+
+if __name__ == '__main__':
+    print(f"Preguntas disponibles: {preguntas.id}")

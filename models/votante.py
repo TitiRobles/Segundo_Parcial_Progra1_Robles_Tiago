@@ -1,8 +1,10 @@
 import random
 import pygame
 
-from .juego import pantalla
 from colores import (COLOR_AZUL, COLOR_GRIS, COLOR_ROJO)
+pygame.init()
+ANCHO_PANTALLA, ALTO_PANTALLA = 800, 600
+pantalla = pygame.display.set_mode((ANCHO_PANTALLA, ALTO_PANTALLA))
 
 class Votante:
     """Esta clase representa a un votante

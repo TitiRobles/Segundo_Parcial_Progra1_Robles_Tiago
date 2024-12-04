@@ -1,58 +1,102 @@
-{
-    "preguntas": [
+[
         {
             "id": 1,
-            "pregunta": "¿Quien es mejor?",
-            "AZ": "Messi",
-            "RO": "Maradona"
+            "pregunta": "Quien es mejor?",
+            "opciones": ["Messi" , "Maradona"]
         },
         {
             "id": 2,
-            "pregunta": "¿Que es mas rico?",
-            "AZ": "Pizza",
-            "RO": "Hamburguesa"
+            "pregunta": "El mas grande de espana es...",
+            "opciones": ["Barcelona", "Real Madrid"]
         },       
         {
             "id": 3,
-            "pregunta": "¿Que lugar es mejor para vacacionar?",
-            "AZ": "Mar del Plata",
-            "RO": "Moscu"
+            "pregunta": "El maximo idolo de boca es...",
+            "opciones": ["Riquelme", "Palermo"]
         },
         {
             "id": 4,
-            "pregunta": "¿Que estacion es mejor?",
-            "AZ": "Verano",
-            "RO": "Invierno"
+            "pregunta": "Que liga es mejor?",
+            "opciones": ["Premier League", "LaLiga"]
         },
         {
             "id": 5,
-            "pregunta": "¿Que es mejor para merendar?",
-            "AZ": "Mate",
-            "RO": "Cafe"
+            "pregunta": "La seleccion mas grande de europa es...",
+            "opciones": ["Alemania", "Italia"]
         },
         {
             "id": 6,
-            "pregunta": "¿Quien es mejor?",
-            "AZ": "Messi",
-            "RO": "Maradona"
+            "pregunta": "Que equipo es mas grande?",
+            "opciones": ["River", "Boca"]
         },
         {
             "id": 7,
-            "pregunta": "El mejor actor de argentina es...",
-            "AZ": "Darin",
-            "RO": "Francella"
+            "pregunta": "El mejor 9 de la historia es...",
+            "opciones": ["Ronaldo Nazario", "Van Basten"]
         },
         {
             "id": 8,
-            "pregunta": "¿Que preferis?",
-            "AZ": "Ser infiel",
-            "RO": "Que te sean infiel"
+            "pregunta": "Que preferis?",
+            "opciones": ["Ser Delantero", "Ser Defensor"]
         },
         {
-            "id": 1,
-            "pregunta": "Si tenes uno de estos deseos ¿Que eligirias?",
-            "AZ": "Tener mas tiempo",
-            "RO": "Tener mas dinero"
+            "id": 9,
+            "pregunta": "El mejor DT de la historia es...",
+            "opciones": ["Guardiola", "Ferguson"]
+        },
+        {
+            "id": 10,
+            "pregunta": "El mejor DT de argentina fue...",
+            "opciones": ["Menotti", "Bilardo"]
+        },
+        {
+            "id": 11,
+            "pregunta": "El mejor DT del futbol argentino es...",
+            "opciones": ["Bianchi", "Gallardo"]
+        },
+        {
+            "id": 12,
+            "pregunta": "El mas grande de avellaneda es...",
+            "opciones": ["Independiente", "Racing"]
+        },
+        {
+            "id": 13,
+            "pregunta": "El 5to grande es...",
+            "opciones": ["San Lorenzo", "Estudiantes"]
+        },        
+        {
+            "id": 14,
+            "pregunta": "El mejor 9 de la era moderna es...",
+            "opciones": ["Suarez", "Lewandowski"]
+        },
+        {
+            "id": 15,
+            "pregunta": "La maxima promesa actualmente es...",
+            "opciones": ["Bellingham", "Lamine Yamal"]
+        },
+        {
+            "id": 16,
+            "pregunta": "El mejor arquero de la historia es...",
+            "opciones": ["Neuer", "Casillas"]
+        },
+        {
+            "id": 17,
+            "pregunta": "El mejor arquero de la argentina fue...",
+            "opciones": ["Fillol", "Dibu Martinez"]
+        },
+        {
+            "id": 18,
+            "pregunta": "El mas grande de La Plata es...",
+            "opciones": ["Estudiantes", "Gimnasia"]
+        },
+        {
+            "id": 19,
+            "pregunta": "El mas grande de manchester es...",
+            "opciones": ["United", "City"]
+        },
+        {
+            "id": 20,
+            "pregunta": "Quien tiene mas magia?",
+            "opciones": ["Neymar", "Ronaldinho"]
         }
-    ]
-}
+]
